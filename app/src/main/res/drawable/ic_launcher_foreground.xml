@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <!-- foglio inclinato -->
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M38,32 L66,30 L72,76 L40,78 Z" />
+    <path android:strokeColor="#1B7F5F" android:strokeWidth="2.5" android:strokeLineCap="round"
+        android:pathData="M45,44 L62,43 M45,52 L64,51 M46,60 L65,59 M46,68 L58,67" />
+    <!-- angoli di scansione -->
+    <path android:strokeColor="#FFD54F" android:strokeWidth="3.5" android:strokeLineCap="round"
+        android:pathData="M28,34 L28,26 L36,26 M80,34 L80,26 L72,26 M28,74 L28,82 L36,82 M80,74 L80,82 L72,82" />
+</vector>
